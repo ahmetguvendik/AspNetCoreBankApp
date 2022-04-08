@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "sjiq+0I0EMpYzuTOoIE3NmMeAj06Rcw9TOqvI6E8QYM=",
+  "Source": "AG.BankApp.Web",
+  "BasePath": "_content/AG.BankApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AG.BankApp.Web\\wwwroot",
+      "Source": "AG.BankApp.Web",
+      "ContentRoot": "C:\\Users\\ahmet\\source\\repos\\AG.BankApp\\AG.BankApp.Web\\wwwroot\\",
+      "BasePath": "_content/AG.BankApp.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ahmet\\source\\repos\\AG.BankApp\\AG.BankApp.Web\\wwwroot\\Style.css",
+      "SourceId": "AG.BankApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmet\\source\\repos\\AG.BankApp\\AG.BankApp.Web\\wwwroot\\",
+      "BasePath": "_content/AG.BankApp.Web",
+      "RelativePath": "Style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Style.css"
+    }
+  ]
+}
